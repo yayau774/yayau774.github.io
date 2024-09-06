@@ -11,3 +11,11 @@ app.vueがある → &lt;NuxtPage&gt;がURLに対応する/page以下のコン�
 
 というかNuxt4使ってみたかったんだけどまだリリースされてないという。
 Nuxt3からNuxt4に移行しようとするとディレクトリ構成が変わるらしく、やだなー。
+
+ふつうにやるときはbuild、静的ホスティングをやりたいときはgenerateする。
+nuxt.config.tsでssr:falseしてgenerateするとnode.js使えないところでも置けるっぽい？
+よくわからん。
+
+generateしたサイトをVSCodeのLiveServerで開いてみたらMIMEタイプエラーが起きてあきらめかけたんですが、LiveServerのルートディレクトリを指定することでなんとかなりました。
+
+
