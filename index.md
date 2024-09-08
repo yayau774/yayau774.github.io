@@ -1,6 +1,18 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-08
+Rogalia、料理99.96。豚を飼い始めた。
+
+[『とんでもない死に方の科学』](https://www.kawade.co.jp/np/isbn/9784309253848/)読了。おもしろかった。  
+きんたまを蜂に刺されたことをきっかけに、部位ごとに痛みの感度を調べる男、すごい……。
+
+### Nuxtの勉強
+CSSちょっと増やして記事コンポーネントの土台を作ったぞ。  
+いまのCSSはネイティブで入れ子指定できるんだねえ。すごい。かなり楽になった。  
+Vueのことはしばらく前に触ったっきりで、だいぶ忘れてる。思い出したり覚えたりしていきましょう。
+
+
 ## 2024-09-07
 Rogalia、料理が99.60を超えている。クロワッサンづくりは終わっていいかな……。  
 農業ステータスはニンジンだったかリンゴだったか、どちらにせよ小麦の生地と合わせて焼くだけ。  
