@@ -1,6 +1,17 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-10
+コミット成功してた。よかった。
+
+### Rogalia
+農業99.7。豚は雌雄2対以上いるほうがいいかな。1日1出産っぽい。
+耕耘機の運転速度ってQ依存か？　なんか遅い気がする……。
+
+### Nuxt
+動画見たけどぜんぜん頭に入ってこない！　レンダリングとuseFetchまわり。
+
+
 ## 2024-09-09
 りすがいたので写真を撮った。尾を含まずに体長22-27cmらしい。思ったよりデカい。
 
