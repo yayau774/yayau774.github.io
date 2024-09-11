@@ -1,6 +1,19 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-11
+ブルボンの新作ラングレイス、味はいいけどぼろぼろ崩れるので多分リピートはしない。
+
+### Rogalia
+農業100。石工とかをあげられるようになったけど栄養素600以上使って10→13。やべえ。
+錬金100にしないで作成系あげるほうがいいか…？　赤って肉だから高Q食を作りにくいんだよな。  
+豚は1対追加した。雄はq1*2、雌はq2q3。早くよい雄が生まれてほしい。繁殖は24hじゃなくて36hかも。
+
+### Nuxt
+(jsonplaceholder)[https://jsonplaceholder.typicode.com/]、べんり。  
+useFetchを試したり、useNuxtConfigでpublicにしてない値を見に行ってエラーを起こしたりした。  
+
+
 ## 2024-09-10
 コミット成功してた。よかった。
 
