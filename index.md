@@ -11,7 +11,10 @@
 
 ### Nuxt
 (jsonplaceholder)[https://jsonplaceholder.typicode.com/]、べんり。  
-useFetchを試したり、useNuxtConfigでpublicにしてない値を見に行ってエラーを起こしたりした。  
+useFetchを試したり、useNuxtConfigでpublicにしてない値を見に行ってエラーを起こしたりした。
+
+NuxtだとDB触りに行くのにPrismaとか使ったほうがいいのかなー？というかんじ。  
+バックエンドがPHPだと最初から組み込まれてたから何も意識してなかったなあ。
 
 
 ## 2024-09-10
