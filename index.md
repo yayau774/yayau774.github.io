@@ -1,6 +1,18 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-12
+シャベルじゃなくてショベルが正式名称。JISもそういってる。
+
+### Rogalia
+先に作成をあげることにした。しかしここからサブキャラの50を超えるのはだいぶかかりそう。
+
+### Nuxt
+もしかしてこれ、私が求めているものではないのでは？となった。まあサーバーサイドでAPIをやってくれるというのは超えらいので、使いたくなる時もありそう。無駄にはならないはず。
+
+Prismaべんり！　既存のデータベースを相手にしようとしたときも db pull でなんとかなる。まるで魔法のようだ。
+
+
 ## 2024-09-11
 ブルボンの新作ラングレイス、味はいいけどぼろぼろ崩れるので多分リピートはしない。
 
