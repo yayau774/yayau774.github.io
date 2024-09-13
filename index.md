@@ -1,6 +1,19 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-13
+これ月日はともかく年はいらないのではないか？
+
+### Rogalia
+肉集めがめんどくさいし豚はぜんぜんまともな雄が生まれない。
+
+### Nuxt
+Prisma + MongoDB!　→　PrismaはMongoDBとあんまり仲が良くない。Nuxt-mongooseにしよ……。  
+脆弱性があるぞ！と脅されたけど実際には脆弱性の直ったバージョンが使われているようだ。よかった。
+
+PrismaのMongoDB接続文字列は、mongo+srv://<user>:<pass>@<host>/<任意のDB名>。存在しないDBだったら勝手に作ってくれる。
+
+
 ## 2024-09-12
 シャベルじゃなくてショベルが正式名称。JISもそういってる。
 
