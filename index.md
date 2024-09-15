@@ -1,6 +1,33 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-15
+V Rising、設定のせいでめんどくささが出てきた。  
+1人で遊ぶならテレポ制限外しとくべきだなー。
+
+### Rogalia
+獲れ高が低いという理由で豚を滅ぼした。早まったかもしれん。
+でも牛とか馬のほうが肉多いから……。
+
+### Nuxtとかの
+Mongoose、くせがつよくてやりにくい……。  
+定期げーに関して言うならRDBでいいのかも。
+
+## 2024-09-14
+V Rising無料期間。けっこうおもしろい。
+
+### Rogalia
+Qたかい肉どこいったんだろう……。
+
+木の植え替えをめんどくさがってるから全然進んでない。ガラスも作らなきゃ……。
+
+### Nuxt
+Mongooseの強制複数形にビビる。げきおこ。option: { collection: '任意の名前' } で出来たのでゆるしてあげよう。  
+
+VercelにデプロイしたらMongoDB Atlasへの接続で504エラーが発生し、よくわからんまま直った。
+.envの反映が遅かったのか、MongoDB AtlasのIPブロックリストの修正反映が遅かったのか。いじったのはその辺のはず。
+
+
 ## 2024-09-13
 これ月日はともかく年はいらないのではないか？
 
