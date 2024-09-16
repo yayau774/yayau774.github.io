@@ -1,6 +1,17 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-16
+『高校生だけじゃもったいない　仕事に役立つ新・必修科目「情報Ⅰ」 』読了。  
+面白かったんだけど、教育内容のギャップにびっくりした……。
+
+### Nuxtとかの
+Prisma-Postgresは無事になんとかなりそう。
+
+認証どうしようかなーって@sidebase/nuxt-authを触り、JWTとsession両方……？！とびびった。  
+このlucia2.0ってやつはどうなんだとみてみたら、セッション管理にDBをべたべた触っている。  
+PHPでｴｲｯとやったら軽々と出来てたけど、もしかして認証は意外とめんどくさいのか？
+
 ## 2024-09-15
 V Rising、設定のせいでめんどくささが出てきた。  
 1人で遊ぶならテレポ制限外しとくべきだなー。
