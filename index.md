@@ -1,6 +1,23 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-17
+ふしぶしがいたい。
+
+### Nuxtとか
+せっしょんめんどくせえ！！！　となり、phpさばを別に立ててNuxt3をAPIとDBのためだけに使うことにした。  
+> form(php) - fetch(php) --- nuxt(api)  
+APIはサービス間の窓口って意味らしいけど、つまりこういうことなんだなあ……。
+
+dockerコンテナで起動したビルトインサーバからlocalhostのnuxt3にfetchしに行って失敗。  
+原因は二つあって、ひとつはコンテナ内からlocalhostに行こうとすると、dockerが動いてるPCじゃなくてコンテナ内を見に行ってしまうこと。  
+対処法は、dockerコンテナからPCのlocalhostを見に行くときにhost.docker.internalを使う。
+
+もうひとつは、Nuxt3のdevコマンドはデフォルトでは外部からの通信を受け付けないようになっていること。  
+対処法は、Nuxt3のdevを外部にも出すために nuxt dev --host とすること。  
+これをやっても完全に外部に公開するわけじゃないっぽいのでそんなに恐れなくてもよさそう？  
+少なくともじぶんのIPアドレス直で入れても接続には失敗した。
+
 ## 2024-09-16
 『高校生だけじゃもったいない　仕事に役立つ新・必修科目「情報Ⅰ」 』読了。  
 面白かったんだけど、教育内容のギャップにびっくりした……。
