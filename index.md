@@ -1,12 +1,22 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-18
+忘れずに本を返した。実をつけた枝が重そうにしなって垂れていた。
+
+### Nuxtとか
+GETメソッドでアクセスされた場合、API側はreadBodyをつかった瞬間に405エラーを返す。POST/PUT限定かー。まあGETにはbodyないのかもしれないしね。
+
+phpのビルトインサーバを立てているときにコンソールへメッセージを流す方法。  
+https://office-obata.com/report/memorandum/post-4494/  
+ob_start(), ob_get_contents(), fopen(), var_dump(), fclose(), ob_end_clean()
+
 ## 2024-09-17
 ふしぶしがいたい。
 
 ### Nuxtとか
 せっしょんめんどくせえ！！！　となり、phpさばを別に立ててNuxt3をAPIとDBのためだけに使うことにした。  
-> form(php) - fetch(php) --- nuxt(api)  
+> form(php) - fetch(php) --- nuxt(api)
 APIはサービス間の窓口って意味らしいけど、つまりこういうことなんだなあ……。
 
 dockerコンテナで起動したビルトインサーバからlocalhostのnuxt3にfetchしに行って失敗。  
