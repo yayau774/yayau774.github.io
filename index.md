@@ -1,6 +1,16 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-19
+任天堂vsパルワールドのところ。どうなるのかなー。
+
+### Nuxtとか
+特定のメソッドしか受け入れない機能、便利かも。  
+同じ名前で別メソッドとかやるかもしれないもんねえ。ないか？
+
+php-server-html間のjsonのやりとりがちょっとめんどくさい。  
+文字列化したりしなかったりしてｱﾜﾜｰｰｰｯとなる。慣れないとなー。
+
 ## 2024-09-18
 忘れずに本を返した。実をつけた枝が重そうにしなって垂れていた。
 
