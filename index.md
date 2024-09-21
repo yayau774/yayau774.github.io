@@ -1,6 +1,9 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-21
+ゼンレスゾーンゼロを遊び始めた。システム難しいかと思ったけど慣れたらそうでもない……かも。
+
 ## 2024-09-20
 YHC-餅さんが勝っててウレシイ。
 
