@@ -1,6 +1,12 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-22
+ZZZで蒼角ちゃんを無事に引けたけど、この子のスキルに書いてあることが結構難しそうでは？
+
+https://www.youtube.com/watch?v=V2GM9lR-Di0
+Lispが気になってきた。
+
 ## 2024-09-21
 ゼンレスゾーンゼロを遊び始めた。システム難しいかと思ったけど慣れたらそうでもない……かも。
 
