@@ -1,6 +1,12 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-24
+Bluetoothアダプタを買い、通常モードと低遅延モードの差をゲーム動画で確かめてびっくりした。通常モードの遅延だとゲームどころか動画も怪しくない……？
+
+羽をたたむトンボとそうじゃないトンボがいる。前者は体の細いイトトンボなどで、後者は体の大きいヤンマなど。らしい。
+
+SF6にテリー追加アップデート。ダルシムにもいろんな強化が入った。嬉しいんだけど、いいの？
 
 ## 2024-09-23
 イヤーカフ型無線イヤホンを買ってみたんですが、なんとPCにBluetoothがついてなかった。買うときにいらなーい！ってやったんだっけ……。
