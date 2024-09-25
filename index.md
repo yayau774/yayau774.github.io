@@ -1,6 +1,12 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-25
+こんどはAstroに手を出してみた。いらんjsは消し飛ばしちゃうぞ！をはじめとして、結構好みのコンセプトかも。  
+ついでにnetlifyも登録。
+
+ダルシムの強化、結構いいものっぽい。うれしいね。
+
 ## 2024-09-24
 Bluetoothアダプタを買い、通常モードと低遅延モードの差をゲーム動画で確かめてびっくりした。通常モードの遅延だとゲームどころか動画も怪しくない……？
 
