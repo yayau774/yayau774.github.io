@@ -1,6 +1,11 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-26
+眼科検診いってきた。異常なし。散瞳して見える世界がきらきらしすぎてびっくりした。
+
+Astro、思ったよりhtmlソースにゴミがついてくる。ｳｰﾝ……。やっぱ手打ちがいちばん？
+
 ## 2024-09-25
 こんどはAstroに手を出してみた。いらんjsは消し飛ばしちゃうぞ！をはじめとして、結構好みのコンセプトかも。  
 ついでにnetlifyも登録。
