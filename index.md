@@ -1,6 +1,11 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-28
+昼夜逆転しとるがな！　おしっこする夢を見て、起きたときちょっと焦った。
+
+ぜんぜろ全然やってなーい。学ますの10連ガシャも起動すらしてないや。
+
 ## 2024-09-27
 typescriptちょっとやり直したりnode.jsを見てみたり。
 
