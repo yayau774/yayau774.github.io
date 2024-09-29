@@ -1,6 +1,14 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-29
+nRnRのついたてテストプレイを見た。たのしそう。
+
+### Rogalia
+サブのほうのステータスをあげることにした。  
+対立ステータスのペナルティが大きすぎるので、メインあげるよりは圧倒的に早い…はず。  
+とりあえず75でチタン板を作れるようにして機械犂！
+
 ## 2024-09-28
 昼夜逆転しとるがな！　おしっこする夢を見て、起きたときちょっと焦った。
 
