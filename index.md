@@ -1,6 +1,13 @@
 # Pagesによる日記だ
 [まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
 
+## 2024-09-30
+堅いクッキーを食べてパックンチョを思い出したので買ってきたんですが、記憶よりさくさくしていた。
+屋根のクモの巣にトンボが二匹つかまっていた。
+カップ麺を忘れずに交換してきた。店員さんはエックスのキャンペーンをご存じなかったっぽい？
+
+あしたは病院に行く（決意）。図書館もいけたらいいな。
+
 ## 2024-09-29
 nRnRのついたてテストプレイを見た。たのしそう。
 
