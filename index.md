@@ -1,11 +1,22 @@
 # Pagesによる日記だ
-[まーくあっぷの例](https://docs.kkgithub.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
+[まーくあっぷの例](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## log
 [24-09-xx](./2409.md)
 
 ## 備忘
 10下旬にさぷり買いに行く
+
+## 24-10-15
+考えるカラスの動画を見て以降、光の性質について考えるようになってしまった。  
+いまは光がまっすぐすすむのかどうかすら怪しく思っています。
+
+> 電灯を背にして壁に自分の影を映し、手を壁に近づけたとき、体の影は手の影より薄い色になる。  
+> その状態で手の影を体の影に寄せていくと……手の影が体の影と同じくらい薄くなってしまう！　なんで？
+
+……みたいなのとか、疑問が次から次へとわいてくる。科学って不思議だ。
+
+Wiz Daphne配信開始。からのメンテ。詫び骨が盛りだくさんになるだろうぜェ！！
 
 ## 24-10-14
 板橋ザンギエフさんがECT2024優勝したり、BeastCup 3vs3の決勝でダルシムが相手チームを3タテしたり。すげえ日だ。
