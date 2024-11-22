@@ -10,7 +10,7 @@
 お散歩中に流れ星が見えた……ような気がする。
 
 クッキーを使ったJWT認証が出来たはず。  
-```typescript:auth.ts
+```typescript
 import type { Context } from "hono";
 import type { CookieOptions } from "hono/utils/cookie";
 import { deleteCookie, setSignedCookie } from "hono/cookie";
