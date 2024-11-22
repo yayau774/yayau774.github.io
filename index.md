@@ -5,6 +5,69 @@
 [24-09-xx](./2409.md)  
 [24-10-xx](./2410.md)
 
+## 24-11-22
+50+15呼吸。50までいったのは初めてかな？　いつもより食後の時間をとってから出たから負担が少なかったのかも。  
+お散歩中に流れ星が見えた……ような気がする。
+
+クッキーを使ったJWT認証が出来たはず。  
+```typescript:auth.ts
+import type { Context } from "hono";
+import type { CookieOptions } from "hono/utils/cookie";
+import { deleteCookie, setSignedCookie } from "hono/cookie";
+
+/**
+ * 
+ * 参考
+ * https://hono.dev/docs/getting-started/cloudflare-workers#using-variables-in-middleware
+ * 
+ * くっきー保存するとき
+ * await setAuthCookie(c, "cookie-name", "jwt-string")
+ * 
+ * くっきーを削除するとき
+ * deleteAuthCookie(c, "cookie-name")
+ * 
+ * くっきーをjwt-authに渡すとき
+ * import { jwt } from 'hono/jwt'
+ * app.use('path', async (c, next) => {
+ *   const jwtOption = {
+ *     secret: jwt-secret
+ *     cookie: getAuthCookieOption(c, "cookie-name")
+ *   }
+ *   const auth = jwt(jwtOption)
+ *   return auth(c, next)
+ * })
+ * 
+ */
+
+const secureCookieOption: CookieOptions = {
+  httpOnly: true,
+  maxAge: 1000,
+  sameSite: "strict",
+  secure: true,
+  prefix: "host",
+};
+
+export const setAuthCookie = async (c: Context, key: string, jwt: string) => {
+  await setSignedCookie(c, key, jwt, c.env.COOKIE_SECRET, secureCookieOption );
+}
+
+export const deleteAuthCookie = (c: Context, key: string) => {
+  deleteCookie(c, key, secureCookieOption);
+}
+
+export const getAuthCookieOption = (c: Context, key: string) => {
+  return {
+    key,
+    secret: c.env.COOKIE_SECRET,
+    prefixOptions: secureCookieOption.prefix
+  }
+}
+```
+
+昨日も今日もなんかうまく眠れてないなー。
+
+DQ3リメイク、大魔王ゾーマの生配信とかやってて笑っちゃった。バラモスもいるし。
+
 ## 24-11-21
 30+15呼吸。新しい冬靴は夏靴より重さを感じる。まだちょっと堅いけどそのうち柔らかくなるかなー。
 
