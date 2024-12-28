@@ -2,9 +2,20 @@
 [まーくあっぷの例](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## log
-[24-09-xx](./2409.md)  
-[24-10-xx](./2410.md)
-[24-11-xx](./2411.md)
+[24-09-xx](./2409.md)　[24-10-xx](./2410.md)　[24-11-xx](./2411.md)
+
+## 24-12-28
+1缶、40+25呼吸。わりと雪の降る時間は短い……。
+
+https://www.youtube.com/live/Zk1fmTmJiYk
+ポーカーチェイス、面白かった！
+
+## 24-12-27
+1缶、0呼吸。雪。年末年始は雪予報が並んでいる……。
+
+筋肉痛は穏やかになったけどまだ治ってはいない。
+
+代筆屋ワールドワードがボリュームアップしてswitchとsteamに！　めでたい。
 
 ## 24-12-26
 2缶、0呼吸。雪が！
