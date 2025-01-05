@@ -4,6 +4,19 @@
 ## log
 [24-09-xx](./2409.md)　[24-10-xx](./2410.md)　[24-11-xx](./2411.md)　[24-12-xx](./2412.md)
 
+## 25-01-05
+1缶、50+30呼吸。途中からおなかが張って息がしづらいのは、息を吸いすぎなのか消化が間に合ってないのか……？
+
+Rogaliaはそろそろ肉系をメインにしたいところだけど、供給がなかなかむずかしい。
+
+TypeScriptでフロント側のJavaScript書こうとするとやっぱりちょっとめんどくさい。  
+addEventListenerのEventTargetからHTMLElementを推測してもらうためにas使うとか……。  
+結局@ts-expect-errorとか使っている。
+
+event.targetとevent.currentTargetは違う。  
+elem.appendChild.apply(elem, elem配列)は動かないので、elem配列.forEach。  
+inline-blockのなかでblock要素を使うと崩れる。これやりたいならdisplay:flexのがいいかな。
+
 ## 25-01-04
 1缶、20+30+40+30呼吸。お散歩距離が長くなると必然的に走る量も増える。  
 行きは穏やかな天気だったのに帰りでいきなり吹雪いてて、冬だなあ～！となった。
